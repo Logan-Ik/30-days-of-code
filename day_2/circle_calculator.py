@@ -1,5 +1,5 @@
-print("Enter your radice here: ")
-r = float(input())
+print("Enter your radius here: ")
+r = float(input())    
 pi = 3.14159
 area_of_circle= pi*(r*r)
 circumfrence_of_circle = 2*pi*r
