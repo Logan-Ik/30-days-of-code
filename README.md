@@ -12,3 +12,7 @@ I learnt about variables and on the second excercise I saw the surface area ques
 day_3
 
 I learnt more about operations this task I also spent a lot more time on the functions section because it took me a little while to adjust my code to it and secondly I also went through issues with ints and floats due to naming these functions.I learnt sep='\n' in order to complete last question however I am not sure if that was what i was supposed to implement and lastly I was confused by a couple of questions due to poor explanation or at least thats how I felt.
+
+day_4 
+
+I learnt more about strings I learnt most on tabs and new line methods. This day wasnt particularly difficult I just had to get through the 34 questions 
