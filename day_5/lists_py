@@ -1,0 +1,76 @@
+#1
+list = list()
+#2
+my_tools = ('boppy','Scoop', 'Muck', 'Dizzy', 'Roley', 'Lofty')
+#3
+print(len(my_tools))
+#4
+mew_crew = my_tools[0] + my_tools[3] + my_tools[5]
+print(mew_crew)
+print(my_tools[0])
+print(my_tools[3])
+print(my_tools[5])
+#5
+mixed_data_types = ('Bob',27,0.75,'not married','Bobsville') 
+#6
+it_companies = ['Facebook','Google','Microsoft','Apple','IBM','Oracle','Amazon']
+#7
+print(it_companies)
+#8
+print(len(it_companies))
+#9
+print(it_companies[0:7:3])
+#10
+it_companies.pop()
+it_companies.insert(6,'amaliazon')
+print(it_companies)
+#11
+it_companies.insert(7,'Fire-IT')
+#12
+it_companies.insert(4 ,'Capterra')
+#13
+Capitalized = 4
+it_companies[Capitalized] = it_companies[Capitalized].upper()
+print(it_companies)
+#14
+x = "#".join(it_companies)
+print(x)
+#15
+company_excists = 'Fire-IT' in it_companies
+print(company_excists)
+#16
+it_companies.sort()
+#17
+it_companies.sort(reverse=True)
+#18
+print(it_companies[0:3:1])
+#19
+print(it_companies[4:7:1])
+#20
+print(len(it_companies)/2)
+print(it_companies[4:6:1])
+#21
+it_companies.pop(0)
+print(it_companies)
+#22
+it_companies.pop(4)
+#23
+print(len(it_companies))
+it_companies.pop(6)
+print(len(it_companies))
+#24
+it_companies.clear()
+print(it_companies)
+#25
+del it_companies
+#this destroys the list and returns there is no list if run
+#26
+front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
+back_end = ['Node','Express', 'MongoDB']
+full_stack = front_end + back_end
+print(full_stack)
+#27
+Extra_coding = ('Python','SQL')
+front_end.extend(Extra_coding)
+front_end.extend(back_end)
+print(front_end)

@@ -1,5 +1,3 @@
-import math
-#I immported math for ease of use
 #1
 joiner = 'Thirty','Days','of','Python'
 result = ' '.join(joiner)
