@@ -2,20 +2,20 @@
 list = list()
 
 #2
-my_tools = ('boppy','Scoop', 'Muck', 'Dizzy', 'Roley', 'Lofty')
+my_tools = ['boppy','Scoop', 'Muck', 'Dizzy', 'Roley', 'Lofty']
 
 #3
 print(len(my_tools))
 
 #4
-mew_crew = my_tools[0] + my_tools[3] + my_tools[5]
+mew_crew = my_tools[0] , my_tools[3] , my_tools[5]
 print(mew_crew)
 print(my_tools[0])
 print(my_tools[3])
 print(my_tools[5])
 
 #5
-mixed_data_types = ('Bob',27,0.75,'not married','Bobsville') 
+mixed_data_types = ['Bob',27,0.75,'not married','Bobsville'] 
 
 #6
 it_companies = ['Facebook','Google','Microsoft','Apple','IBM','Oracle','Amazon']
