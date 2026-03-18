@@ -16,3 +16,9 @@ I learnt more about operations this task I also spent a lot more time on the fun
 day_4 
 
 I learnt more about strings I learnt most on tabs and new line methods. This day wasnt particularly difficult I just had to get through the 34 questions 
+
+day_5
+
+I learnt more about lists the activity was all in all pretty easy except for joining the list with # and eventually activity 2 where I had to learn a method to cut a list in halfand then print it 
+
+day_6
