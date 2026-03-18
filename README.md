@@ -22,3 +22,15 @@ day_5
 I learnt more about lists the activity was all in all pretty easy except for joining the list with # and eventually activity 2 where I had to learn a method to cut a list in halfand then print it 
 
 day_6
+
+I learnt about tuples and how to use them this was a quick day since there wasntreally hard content just learnig the ins and outs of tupples
+
+day_7
+
+I learnt about sets and got extremly confused with the activity since my duplicates disapeared but then I learnt what happens with sets all in all didnt take much time and I employed import math in order to get the cleanest outcome
+
+day_8
+
+i learnt dictionaries However Im still heavely confused sice I learnt dictionaries from using them in work and calling them later using def and return and this day tought me a comletly diffrent method to using them however it wasnt my favourite 
+
+day_9
