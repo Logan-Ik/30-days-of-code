@@ -34,3 +34,5 @@ day_8
 i learnt dictionaries However Im still heavely confused sice I learnt dictionaries from using them in work and calling them later using def and return and this day tought me a comletly diffrent method to using them however it wasnt my favourite 
 
 day_9
+
+I learnt about for and while loops and I sstruggled Especially on the # section since I had to find ways of making it work but it didnt even come close to excercise 3 which had me wondering how I would tackle it time after time  
