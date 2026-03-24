@@ -1,5 +1,6 @@
 from countries import countries
 from countries_data import data_set
+from collections import Counter
 #1
 print('This is the for loop for #1')
 numbers = (1,2,3,4,5,6,7,8,9,10)
@@ -65,7 +66,7 @@ total_odd = 0
 for i in range(101):  
     if i % 2 != 0:  
         total_odd  += i
-        print('The sum of all numbers is',total,'. And the sum of all odds is',total_odd)
+        print('The sum of all evens is',total,'. And the sum of all odds is',total_odd)
         
 #Excercise 3
 #1
@@ -80,7 +81,7 @@ for country in countries:
 fruits = ['banana', 'orange', 'mango', 'lemon']
 for i in reversed(fruits):
     print(i)
-    
+
 #3i
 languages = set()
 
@@ -89,4 +90,22 @@ for data in data_set:
 
 print("Total number of languages: ", len(languages))
 #3ii
-#3iii
+all_languages = []
+for country in data_set:
+    all_languages.extend(country['languages'])
+
+
+counts = Counter(all_languages)
+
+print(counts.most_common(10))
+#3ii
+def get_population(country):
+    return country['population']
+
+data_set.sort(key=get_population, reverse=True)
+
+top_ten = data_set[:10]
+
+
+for country in top_ten:
+    print(country['name'], country['population'])

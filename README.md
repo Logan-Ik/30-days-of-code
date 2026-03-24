@@ -31,6 +31,18 @@ I learnt about sets and got extremly confused with the activity since my duplica
 
 day_8
 
-i learnt dictionaries However Im still heavely confused sice I learnt dictionaries from using them in work and calling them later using def and return and this day tought me a comletly diffrent method to using them however it wasnt my favourite 
+i learnt dictionaries and Ive been using dictinaries already but Ive been shown a new way of using them which is making me question if I was ever using them correctly in the first place
 
 day_9
+
+I learnt coditionals This was a very easy task for me just a little time consuming since I wasnt expecting it to take as long as it did 
+
+day_10
+
+I learnt about loops and this has to have been my hardest lesson yet since the romen numeral questions had me doing extra research on how to complete it since the answer did'nt seem as clear to me as all the other days 
+
+day_11
+
+I learnt more about functions but this activity took way to long I dont know how this was supposed to be something you are supposed to just do for a couple of hours because if you do it properly to learn then it takes many many hours.
+
+day_12
