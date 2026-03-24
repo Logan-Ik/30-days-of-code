@@ -35,6 +35,10 @@ i learnt dictionaries and Ive been using dictinaries already but Ive been shown 
 
 day_9
 
+I learnt about for and while loops and I sstruggled Especially on the # section since I had to find ways of making it work but it didnt even come close to excercise 3 which had me wondering how I would tackle it time after time  
+
+I learnt about for and while loops and I sstruggled Especially on the # section since I had to find ways of making it work but it didnt even come close to excercise 3 which had me wondering how I would tackle it time after time  
+
 I learnt coditionals This was a very easy task for me just a little time consuming since I wasnt expecting it to take as long as it did 
 
 day_10
