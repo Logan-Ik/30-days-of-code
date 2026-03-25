@@ -50,3 +50,28 @@ day_11
 I learnt more about functions but this activity took way to long I dont know how this was supposed to be something you are supposed to just do for a couple of hours because if you do it properly to learn then it takes many many hours.
 
 day_12
+
+I learnt moduluses and it was pretty simple and quick unlike day_11 however I did have to go learn hexidecimal colours and that did take a little bit and Im not quite sure if I even still fully undestand it
+
+Day_13
+
+i learnt about list comprehension it wasnt tough to grasp and I learnt more about lambda
+
+day_14
+
+I learnt about Higher order functions and from it I learnt a lot more about map,reduce and filter since the activity basically just covers them 
+
+day_15 
+
+I learnt about various errors you can get and the activity was just testing them so there was no struggle at all 
+
+day_16 
+
+I learnt about datetime which I was already using before but I was made more aware of all that can be done with it 
+
+day_17
+
+I learnt exception handeling and then did a simple unpacking example which I experimented with before finishing
+
+day_18
+

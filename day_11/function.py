@@ -1,5 +1,5 @@
 from collections import Counter
-from countries_data import data_set
+from day_14.countries_data import data_set
 #1
 def add_two_numbers ():
     num1 = 12
@@ -266,9 +266,7 @@ def error_check(error):
     try:
         result = 10 / error
     except ZeroDivisionError:
-        # Code to handle the specific exception if it occurs
         print("Error: You cannot divide by zero.")
-    # The program continues execution after this block
     print("Program continues here.")
     return result
 #5
